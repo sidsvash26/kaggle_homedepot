@@ -1,4 +1,4 @@
-# kaggle_homedepot
+# Kaggle Home Depot Product Search Relevance
 This is my work on Kaggle competition organized by Home Depot.
 Here's the url:
 https://www.kaggle.com/c/home-depot-product-search-relevance
